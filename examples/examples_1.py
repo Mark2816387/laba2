@@ -1,3 +1,4 @@
+print("Пример простейшей функции без параметров: ")
 def example():
-    print("Hello, World! (c) Yagafarov")
+    print("Hello, World! Yagafarov")
 example()
