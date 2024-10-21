@@ -1,3 +1,3 @@
 def example():
-    print("Hello, World! (c) Kazantsev")
+    print("Hello, World! (c) Yagafarov")
 example()
